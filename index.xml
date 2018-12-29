@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Heidi Yuan</title>
+    <title>Siyao(Heidi) Yuan</title>
     <link>https://ysyheidi.github.io/</link>
-    <description>Recent content on Heidi Yuan</description>
+    <description>Recent content on Siyao(Heidi) Yuan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 May 2015 00:00:00 +0000</lastBuildDate>
@@ -12,12 +12,25 @@
     
     
     <item>
-      <title>Cover image showcase</title>
-      <link>https://ysyheidi.github.io/2015/05/cover-image-showcase/</link>
+      <title>Commercial Bank Competition and Risk --Empirical study on 20 non-OECD countries</title>
+      <link>https://ysyheidi.github.io/2015/05/commercial-bank-competition-and-risk---empirical-study-on-20-non-oecd-countries/</link>
       <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://ysyheidi.github.io/2015/05/cover-image-showcase/</guid>
+      <guid>https://ysyheidi.github.io/2015/05/commercial-bank-competition-and-risk---empirical-study-on-20-non-oecd-countries/</guid>
       <description>&lt;p&gt;Tranquilpeak integrate a unique &amp;ldquo;cover image&amp;rdquo; feature. Open this post to see how this feature sublimate your article.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ysyheidi.github.io/1/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ysyheidi.github.io/1/01/</guid>
+      <description>{width=&amp;ldquo;6.102083333333334in&amp;rdquo; height=&amp;ldquo;4.0680555555555555in&amp;rdquo;}
+Commercial Bank Competition and Risk
+--Empirical study on 20 non-OECD countries
+Abstract
+It is a hotspot for economists to discuss and reflect the relationship between risks and competition. Till now there is no consensus among researchers. With the unbalanced panel data of all commercial banks in 20 non-OECD countries over 2000-2014, the article tried to figure out the relationship between competition and risk. Time variant Competition was measured by the Panzar-Rosse H statistics and risk was measured by rolling Z-scores.</description>
     </item>
     
   </channel>
